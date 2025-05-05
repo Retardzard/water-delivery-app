@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603682895371",
+    "project_id": "water-delivery-app-425ce",
+    "storage_bucket": "water-delivery-app-425ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603682895371:android:a141821fe9b3840651790e",
+        "android_client_info": {
+          "package_name": "com.example.water_delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9raALRrQXRxDV7fI4VNwqZt8wVibYakA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
